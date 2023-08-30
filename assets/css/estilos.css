@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;400;700&family=Monoton&display=swap');
+
+
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'fira sans', cursive;
+}
+
+.btn {
+    font-family: "Fira sans", sans-serif;
+}
+
+.bg-colorprincipal {
+    background-color: #ffb502;
+}
+
+
+.btn-exterior-colorprincipal {
+    border-color: #36379c;
+    color: #36379c;
+}
+
+.btn-exterior-colorprincipal:hover {
+    background-color: #36379c;
+    color: #fff;
+}
+
+.h5-principal {
+    color: #36379c;
+}
+
+.bg-colorprincipal2 {
+    background-color: #CAC4CE;
+}
+
+.bg-color3{
+    background-color:#BCF4F5;
+}
+
+.h5-2{
+    color: #BCF4F5;
+}
+
+.bg-color3 a{
+    border:none !important;
+}
